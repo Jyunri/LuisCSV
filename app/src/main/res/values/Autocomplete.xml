@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name= "Descricoes">
+        <item>Cultivo de arroz</item>
+        <item>Cultivo de milho</item>
+        <item>Cultivo de trigo</item>
+        <item>Cultivo de outros cereais não especificados anteriormente</item>
+        <item>Cultivo de algodão herbáceo</item>
+        <item>Cultivo de juta</item>
+        <item>Cultivo de outras fibras de lavoura temporária não especificadas anteriormente</item>
+        <item>Cultivo de cana-de-açúcar</item>
+        <item>Cultivo de fumo</item>
+        <item>Cultivo de soja</item>
+        <item>Cultivo de amendoim</item>
+        <item>Cultivo de girassol</item>
+        <item>Cultivo de mamona</item>
+        <item>Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente</item>
+        <item>Cultivo de abacaxi</item>
+        <item>Cultivo de alho</item>
+        <item>Cultivo de batata-inglesa</item>
+        <item>Cultivo de cebola</item>
+        <item>Cultivo de feijão</item>
+        <item>Cultivo de mandioca</item>
+        <item>Cultivo de melão</item>
+        <item>Cultivo de melancia</item>
+        <item>Cultivo de tomate rasteiro</item>
+        <item>Cultivo de outras plantas de lavoura temporária não especificadas anteriormente</item>
+        <item>Horticultura</item>
+        <item>Cultivo de morango</item>
+        <item>Cultivo de flores e plantas ornamentais</item>
+        <item>Cultivo de laranja</item>
+        <item>Cultivo de uva</item>
+        <item>Cultivo de açaí</item>
+        <item>Cultivo de banana</item>
+        <item>Cultivo de caju</item>
+        <item>Cultivo de cítricos</item>
+        <item>Cultivo de coco-da-baía</item>
+        <item>Cultivo de guaraná</item>
+        <item>Cultivo de maçã</item>
+        <item>Cultivo de mamão</item>
+        <item>Cultivo de maracujá</item>
+        <item>Cultivo de manga</item>
+        <item>Cultivo de pêssego</item>
+        <item>Cultivo de frutas de lavoura permanente não especificadas anteriormente</item>
+        <item>Cultivo de café</item>
+        <item>Cultivo de cacau</item>
+        <item>Cultivo de chá-da-índia</item>
+        <item>Cultivo de erva-mate</item>
+        <item>Cultivo de pimenta-do-reino</item>
+        <item>Cultivo de plantas para condimento</item>
+        <item>Cultivo de dendê</item>
+        <item>Cultivo de seringueira</item>
+        <item>Cultivo de outras plantas de lavoura permanente não especificadas anteriormente</item>
+        <item>Produção de sementes certificadas</item>
+        <item>Produção de sementes certificadas de forrageiras para formação de pasto</item>
+        <item>Produção de mudas e outras formas de propagação vegetal</item>
+        <item>Criação de bovinos para corte</item>
+        <item>Criação de bovinos para leite</item>
+        <item>Criação de bovinos</item>
+        <item>Criação de bufalinos</item>
+        <item>Criação de eqüinos</item>
+        <item>Criação de asininos e muares</item>
+        <item>Criação de caprinos</item>
+        <item>Criação de ovinos</item>
+        <item>Criação de suínos</item>
+        <item>Criação de frangos para corte</item>
+        <item>Produção de pintos de um dia</item>
+        <item>Criação de outros galináceos</item>
+        <item>Criação de aves</item>
+        <item>Produção de ovos</item>
+        <item>Apicultura</item>
+        <item>Criação de animais de estimação</item>
+        <item>Criação de escargô</item>
+        <item>Criação de bicho-da-seda</item>
+        <item>Criação de outros animais não especificados anteriormente</item>
+        <item>Serviço de pulverização e controle de pragas agrícolas</item>
+        <item>Serviço de poda de árvores para lavouras</item>
+        <item>Serviço de preparação de terreno</item>
+        <item>Atividades de apoio à agricultura não especificadas anteriormente</item>
+        <item>Serviço de inseminação artificial em animais</item>
+        <item>Serviço de tosquiamento de ovinos</item>
+        <item>Serviço de manejo de animais</item>
+        <item>Atividades de apoio à pecuária não especificadas anteriormente</item>
+        <item>Atividades de pós-colheita</item>
+        <item>Caça e serviços relacionados</item>
+        <item>Cultivo de eucalipto</item>
+        <item>Cultivo de acácia-negra</item>
+        <item>Cultivo de pinus</item>
+        <item>Cultivo de teca</item>
+        <item>Cultivo de espécies madeireiras</item>
+        <item>Cultivo de mudas em viveiros florestais</item>
+        <item>Extração de madeira em florestas plantadas</item>
+        <item>Produção de carvão vegetal - florestas plantadas</item>
+        <item>Produção de casca de acácia-negra - florestas plantadas</item>
+        <item>Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas</item>
+        <item>Extração de madeira em florestas nativas</item>
+        <item>Produção de carvão vegetal - florestas nativas</item>
+        <item>Coleta de castanha-do-pará em florestas nativas</item>
+        <item>Coleta de látex em florestas nativas</item>
+        <item>Coleta de palmito em florestas nativas</item>
+        <item>Conservação de florestas nativas</item>
+        <item>Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas</item>
+        <item>Atividades de apoio à produção florestal</item>
+        <item>Pesca de peixes em água salgada</item>
+        <item>Pesca de crustáceos e moluscos em água salgada</item>
+        <item>Coleta de outros produtos marinhos</item>
+        <item>Atividades de apoio à pesca em água salgada</item>
+        <item>Pesca de peixes em água doce</item>
+        <item>Pesca de crustáceos e moluscos em água doce</item>
+        <item>Coleta de outros produtos aquáticos de água doce</item>
+        <item>Atividades de apoio à pesca em água doce</item>
+        <item>Criação de peixes em água salgada e salobra</item>
+        <item>Criação de camarões em água salgada e salobra</item>
+        <item>Criação de ostras e mexilhões em água salgada e salobra</item>
+        <item>Criação de peixes ornamentais em água salgada e salobra</item>
+        <item>Atividades de apoio à aqüicultura em água salgada e salobra</item>
+        <item>Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente</item>
+        <item>Criação de peixes em água doce</item>
+        <item>Criação de camarões em água doce</item>
+        <item>Criação de ostras e mexilhões em água doce</item>
+        <item>Criação de peixes ornamentais em água doce</item>
+        <item>Ranicultura</item>
+        <item>Criação de jacaré</item>
+        <item>Atividades de apoio à aqüicultura em água doce</item>
+        <item>Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente</item>
+        <item>Extração de carvão mineral</item>
+        <item>Beneficiamento de carvão mineral</item>
+        <item>Extração de petróleo e gás natural</item>
+        <item>Extração e beneficiamento de xisto</item>
+        <item>Extração e beneficiamento de areias betuminosas</item>
+        <item>Extração de minério de ferro</item>
+        <item>Pelotização</item>
+        <item>Extração de minério de alumínio</item>
+        <item>Beneficiamento de minério de alumínio</item>
+        <item>Extração de minério de estanho</item>
+        <item>Beneficiamento de minério de estanho</item>
+        <item>Extração de minério de manganês</item>
+        <item>Beneficiamento de minério de manganês</item>
+        <item>Extração de minério de metais preciosos</item>
+        <item>Beneficiamento de minério de metais preciosos</item>
+        <item>Extração de minerais radioativos</item>
+        <item>Extração de minérios de nióbio e titânio</item>
+        <item>Extração de minério de tungstênio</item>
+        <item>Extração de minério de níquel</item>
+        <item>Extração de minérios de cobre</item>
+        <item>Beneficiamento de minérios de cobre</item>
+        <item>Extração de ardósia e beneficiamento associado</item>
+        <item>Extração de granito e beneficiamento associado</item>
+        <item>Extração de mármore e beneficiamento associado</item>
+        <item>Extração de calcário e dolomita e beneficiamento associado</item>
+        <item>Extração de gesso e caulim</item>
+        <item>Extração de areia</item>
+        <item>Extração de argila e beneficiamento associado</item>
+        <item>Extração de saibro e beneficiamento associado</item>
+        <item>Extração de basalto e beneficiamento associado</item>
+        <item>Beneficiamento de gesso e caulim associado à extração</item>
+        <item>Extração e britamento de pedras e outros materiais para construção e beneficiamento associado</item>
+        <item>Extração de minerais para fabricação de adubos</item>
+        <item>Extração de sal marinho</item>
+        <item>Extração de sal-gema</item>
+        <item>Refino e outros tratamentos do sal</item>
+        <item>Extração de gemas (pedras preciosas e semipreciosas)</item>
+        <item>Extração de grafita</item>
+        <item>Extração de quartzo</item>
+        <item>Extração de amianto</item>
+        <item>Extração de outros minerais não-metálicos não especificados anteriormente</item>
+        <item>Atividades de apoio à extração de petróleo e gás natural</item>
+        <item>Atividades de apoio à extração de minério de ferro</item>
+        <item>Atividades de apoio à extração de minerais metálicos não-ferrosos</item>
+        <item>Atividades de apoio à extração de minerais não-metálicos</item>
+        <item>Frigorífico - abate de bovinos</item>
+        <item>Frigorífico - abate de eqüinos</item>
+        <item>Frigorífico - abate de ovinos e caprinos</item>
+        <item>Frigorífico - abate de bufalinos</item>
+        <item>Matadouro - abate de reses sob contrato</item>
+        <item>Abate de aves</item>
+        <item>Abate de pequenos animais</item>
+        <item>Frigorífico - abate de suínos</item>
+        <item>Matadouro - abate de suínos sob contrato</item>
+        <item>Fabricação de produtos de carne</item>
+        <item>Preparação de subprodutos do abate</item>
+        <item>Preservação de peixes</item>
+        <item>Fabricação de conservas de peixes</item>
+        <item>Fabricação de conservas de frutas</item>
+        <item>Fabricação de conservas de palmito</item>
+        <item>Fabricação de conservas de legumes e outros vegetais</item>
+        <item>Fabricação de sucos concentrados de frutas</item>
+        <item>Fabricação de sucos de frutas</item>
+        <item>Fabricação de óleos vegetais em bruto</item>
+        <item>Fabricação de óleos vegetais refinados</item>
+        <item>Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais</item>
+        <item>Preparação do leite</item>
+        <item>Fabricação de laticínios</item>
+        <item>Fabricação de sorvetes e outros gelados comestíveis</item>
+        <item>Beneficiamento de arroz</item>
+        <item>Fabricação de produtos do arroz</item>
+        <item>Moagem de trigo e fabricação de derivados</item>
+        <item>Fabricação de farinha de mandioca e derivados</item>
+        <item>Fabricação de farinha de milho e derivados</item>
+        <item>Fabricação de amidos e féculas de vegetais</item>
+        <item>Fabricação de óleo de milho em bruto</item>
+        <item>Fabricação de óleo de milho refinado</item>
+        <item>Fabricação de alimentos para animais</item>
+        <item>Moagem e fabricação de produtos de origem vegetal não especificados anteriormente</item>
+        <item>Fabricação de açúcar em bruto</item>
+        <item>Fabricação de açúcar de cana refinado</item>
+        <item>Fabricação de açúcar de cereais (dextrose) e de beterraba</item>
+        <item>Beneficiamento de café</item>
+        <item>Torrefação e moagem de café</item>
+        <item>Fabricação de produtos à base de café</item>
+        <item>Fabricação de produtos de panificação</item>
+        <item>Fabricação de produtos de panificação industrial</item>
+        <item>Fabricação de produtos de padaria e confeitaria com predominância de produção própria</item>
+        <item>Fabricação de biscoitos e bolachas</item>
+        <item>Fabricação de produtos derivados do cacau e de chocolates</item>
+        <item>Fabricação de frutas cristalizadas</item>
+        <item>Fabricação de massas alimentícias</item>
+        <item>Fabricação de especiarias</item>
+        <item>Fabricação de alimentos e pratos prontos</item>
+        <item>Fabricação de vinagres</item>
+        <item>Fabricação de pós alimentícios</item>
+        <item>Fabricação de fermentos e leveduras</item>
+        <item>Fabricação de gelo comum</item>
+        <item>Fabricação de produtos para infusão (chá</item>
+        <item>Fabricação de adoçantes naturais e artificiais</item>
+        <item>Fabricação de alimentos dietéticos e complementos alimentares</item>
+        <item>Fabricação de outros produtos alimentícios não especificados anteriormente</item>
+        <item>Fabricação de aguardente de cana-de-açúcar</item>
+        <item>Fabricação de outras aguardentes e bebidas destiladas</item>
+        <item>Fabricação de vinho</item>
+        <item>Fabricação de malte</item>
+        <item>Fabricação de cervejas e chopes</item>
+        <item>Fabricação de águas envasadas</item>
+        <item>Fabricação de refrigerantes</item>
+        <item>Fabricação de chá mate e outros chás prontos para consumo</item>
+        <item>Fabricação de refrescos</item>
+        <item>Fabricação de bebidas isotônicas</item>
+        <item>Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente</item>
+        <item>Processamento industrial do fumo</item>
+        <item>Fabricação de cigarros</item>
+        <item>Fabricação de cigarrilhas e charutos</item>
+        <item>Fabricação de filtros para cigarros</item>
+        <item>Fabricação de outros produtos do fumo</item>
+        <item>Preparação e fiação de fibras de algodão</item>
+        <item>Preparação e fiação de fibras têxteis naturais</item>
+        <item>Fiação de fibras artificiais e sintéticas</item>
+        <item>Fabricação de linhas para costurar e bordar</item>
+        <item>Tecelagem de fios de algodão</item>
+        <item>Tecelagem de fios de fibras têxteis naturais</item>
+        <item>Tecelagem de fios de fibras artificiais e sintéticas</item>
+        <item>Fabricação de tecidos de malha</item>
+        <item>Estamparia e texturização em fios</item>
+        <item>Alvejamento</item>
+        <item>Outros serviços de acabamento em fios</item>
+        <item>Fabricação de artefatos têxteis para uso doméstico</item>
+        <item>Fabricação de artefatos de tapeçaria</item>
+        <item>Fabricação de artefatos de cordoaria</item>
+        <item>Fabricação de tecidos especiais</item>
+        <item>Fabricação de outros produtos têxteis não especificados anteriormente</item>
+        <item>Confecção de roupas íntimas</item>
+        <item>Facção de roupas íntimas</item>
+        <item>Confecção de peças do vestuário</item>
+        <item>Confecção</item>
+        <item>Facção de peças do vestuário</item>
+        <item>Confecção de roupas profissionais</item>
+        <item>Confecção</item>
+        <item>Facção de roupas profissionais</item>
+        <item>Fabricação de acessórios do vestuário</item>
+        <item>Fabricação de meias</item>
+        <item>Fabricação de artigos do vestuário</item>
+        <item>Curtimento e outras preparações de couro</item>
+        <item>Fabricação de artigos para viagem</item>
+        <item>Fabricação de artefatos de couro não especificados anteriormente</item>
+        <item>Fabricação de calçados de couro</item>
+        <item>Acabamento de calçados de couro sob contrato</item>
+        <item>Fabricação de tênis de qualquer material</item>
+        <item>Fabricação de calçados de material sintético</item>
+        <item>Fabricação de calçados de materiais não especificados anteriormente</item>
+        <item>Fabricação de partes para calçados</item>
+        <item>Serrarias com desdobramento de madeira</item>
+        <item>Serrarias sem desdobramento de madeira</item>
+        <item>Fabricação de madeira laminada e de chapas de madeira compensada</item>
+        <item>Fabricação de casas de madeira pré-fabricadas</item>
+        <item>Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais</item>
+        <item>Fabricação de outros artigos de carpintaria para construção</item>
+        <item>Fabricação de artefatos de tanoaria e de embalagens de madeira</item>
+        <item>Fabricação de artefatos diversos de madeira</item>
+        <item>Fabricação de artefatos diversos de cortiça</item>
+        <item>Fabricação de celulose e outras pastas para a fabricação de papel</item>
+        <item>Fabricação de papel</item>
+        <item>Fabricação de cartolina e papel-cartão</item>
+        <item>Fabricação de embalagens de papel</item>
+        <item>Fabricação de embalagens de cartolina e papel-cartão</item>
+        <item>Fabricação de chapas e de embalagens de papelão ondulado</item>
+        <item>Fabricação de formulários contínuos</item>
+        <item>Fabricação de produtos de papel</item>
+        <item>Fabricação de fraldas descartáveis</item>
+        <item>Fabricação de absorventes higiênicos</item>
+        <item>Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente</item>
+        <item>Fabricação de produtos de pastas celulósicas</item>
+        <item>Impressão de jornais</item>
+        <item>Impressão de livros</item>
+        <item>Impressão de material de segurança</item>
+        <item>Impressão de material para uso publicitário</item>
+        <item>Impressão de material para outros usos</item>
+        <item>Serviços de pré-impressão</item>
+        <item>Serviços de acabamentos gráficos</item>
+        <item>Serviços de encadernação e plastificação</item>
+        <item>Serviços de acabamentos gráficos</item>
+        <item>Reprodução de som em qualquer suporte</item>
+        <item>Reprodução de vídeo em qualquer suporte</item>
+        <item>Reprodução de software em qualquer suporte</item>
+        <item>Coquerias</item>
+        <item>Fabricação de produtos do refino de petróleo</item>
+        <item>Formulação de combustíveis</item>
+        <item>Rerrefino de óleos lubrificantes</item>
+        <item>Fabricação de outros produtos derivados do petróleo</item>
+        <item>Fabricação de álcool</item>
+        <item>Fabricação de biocombustíveis</item>
+        <item>Fabricação de cloro e álcalis</item>
+        <item>Fabricação de intermediários para fertilizantes</item>
+        <item>Fabricação de adubos e fertilizantes</item>
+        <item>Fabricação de adubos e fertilizantes organo-minerais</item>
+        <item>Fabricação de adubos e fertilizantes</item>
+        <item>Fabricação de gases industriais</item>
+        <item>Elaboração de combustíveis nucleares</item>
+        <item>Fabricação de outros produtos químicos inorgânicos não especificados anteriormente</item>
+        <item>Fabricação de produtos petroquímicos básicos</item>
+        <item>Fabricação de intermediários para plastificantes</item>
+        <item>Fabricação de produtos químicos orgânicos não especificados anteriormente</item>
+        <item>Fabricação de resinas termoplásticas</item>
+        <item>Fabricação de resinas termofixas</item>
+        <item>Fabricação de elastômeros</item>
+        <item>Fabricação de fibras artificiais e sintéticas</item>
+        <item>Fabricação de defensivos agrícolas</item>
+        <item>Fabricação de desinfestantes domissanitários</item>
+        <item>Fabricação de sabões e detergentes sintéticos</item>
+        <item>Fabricação de produtos de limpeza e polimento</item>
+        <item>Fabricação de cosméticos</item>
+        <item>Fabricação de tintas</item>
+        <item>Fabricação de tintas de impressão</item>
+        <item>Fabricação de impermeabilizantes</item>
+        <item>Fabricação de adesivos e selantes</item>
+        <item>Fabricação de pólvoras</item>
+        <item>Fabricação de artigos pirotécnicos</item>
+        <item>Fabricação de fósforos de segurança</item>
+        <item>Fabricação de aditivos de uso industrial</item>
+        <item>Fabricação de catalisadores</item>
+        <item>Fabricação de chapas</item>
+        <item>Fabricação de outros produtos químicos não especificados anteriormente</item>
+        <item>Fabricação de produtos farmoquímicos</item>
+        <item>Fabricação de medicamentos alopáticos para uso humano</item>
+        <item>Fabricação de medicamentos homeopáticos para uso humano</item>
+        <item>Fabricação de medicamentos fitoterápicos para uso humano</item>
+        <item>Fabricação de medicamentos para uso veterinário</item>
+        <item>Fabricação de preparações farmacêuticas</item>
+        <item>Fabricação de pneumáticos e de câmaras-de-ar</item>
+        <item>Reforma de pneumáticos usados</item>
+        <item>Fabricação de artefatos de borracha não especificados anteriormente</item>
+        <item>Fabricação de laminados planos e tubulares de material plástico</item>
+        <item>Fabricação de embalagens de material plástico</item>
+        <item>Fabricação de tubos e acessórios de material plástico para uso na construção</item>
+        <item>Fabricação de artefatos de material plástico para uso pessoal e doméstico</item>
+        <item>Fabricação de artefatos de material plástico para usos industriais</item>
+        <item>Fabricação de artefatos de material plástico para uso na construção</item>
+        <item>Fabricação de artefatos de material plástico para outros usos não especificados anteriormente</item>
+        <item>Fabricação de vidro plano e de segurança</item>
+        <item>Fabricação de embalagens de vidro</item>
+        <item>Fabricação de artigos de vidro</item>
+        <item>Fabricação de cimento</item>
+        <item>Fabricação de estruturas pré-moldadas de concreto armado</item>
+        <item>Fabricação de artefatos de cimento para uso na construção</item>
+        <item>Fabricação de artefatos de fibrocimento para uso na construção</item>
+        <item>Fabricação de casas pré-moldadas de concreto</item>
+        <item>Preparação de massa de concreto e argamassa para construção</item>
+        <item>Fabricação de outros artefatos e produtos de concreto</item>
+        <item>Fabricação de produtos cerâmicos refratários</item>
+        <item>Fabricação de azulejos e pisos</item>
+        <item>Fabricação de artefatos de cerâmica e barro cozido para uso na construção</item>
+        <item>Fabricação de material sanitário de cerâmica</item>
+        <item>Fabricação de produtos cerâmicos não-refratários não especificados anteriormente</item>
+        <item>Britamento de pedras</item>
+        <item>Aparelhamento de pedras para construção</item>
+        <item>Aparelhamento de placas e execução de trabalhos em mármore</item>
+        <item>Fabricação de cal e gesso</item>
+        <item>Decoração</item>
+        <item>Fabricação de abrasivos</item>
+        <item>Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente</item>
+        <item>Produção de ferro-gusa</item>
+        <item>Produção de ferroligas</item>
+        <item>Produção de semi-acabados de aço</item>
+        <item>Produção de laminados planos de aço ao carbono</item>
+        <item>Produção de laminados planos de aços especiais</item>
+        <item>Produção de tubos de aço sem costura</item>
+        <item>Produção de laminados longos de aço</item>
+        <item>Produção de arames de aço</item>
+        <item>Produção de relaminados</item>
+        <item>Produção de tubos de aço com costura</item>
+        <item>Produção de outros tubos de ferro e aço</item>
+        <item>Produção de alumínio e suas ligas em formas primárias</item>
+        <item>Produção de laminados de alumínio</item>
+        <item>Metalurgia dos metais preciosos</item>
+        <item>Metalurgia do cobre</item>
+        <item>Produção de zinco em formas primárias</item>
+        <item>Produção de laminados de zinco</item>
+        <item>Produção de ânodos para galvanoplastia</item>
+        <item>Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente</item>
+        <item>Fundição de ferro e aço</item>
+        <item>Fundição de metais não-ferrosos e suas ligas</item>
+        <item>Fabricação de estruturas metálicas</item>
+        <item>Fabricação de esquadrias de metal</item>
+        <item>Fabricação de obras de caldeiraria pesada</item>
+        <item>Fabricação de tanques</item>
+        <item>Fabricação de caldeiras geradoras de vapor</item>
+        <item>Produção de forjados de aço</item>
+        <item>Produção de forjados de metais não-ferrosos e suas ligas</item>
+        <item>Produção de artefatos estampados de metal</item>
+        <item>Metalurgia do pó</item>
+        <item>Serviços de usinagem</item>
+        <item>Serviços de usinagem</item>
+        <item>Serviços de tratamento e revestimento em metais</item>
+        <item>Fabricação de artigos de cutelaria</item>
+        <item>Fabricação de artigos de serralheria</item>
+        <item>Fabricação de ferramentas</item>
+        <item>Fabricação de equipamento bélico pesado</item>
+        <item>Fabricação de armas de fogo</item>
+        <item>Fabricação de embalagens metálicas</item>
+        <item>Fabricação de produtos de trefilados de metal padronizados</item>
+        <item>Fabricação de produtos de trefilados de metal</item>
+        <item>Fabricação de artigos de metal para uso doméstico e pessoal</item>
+        <item>Serviços de confecção de armações metálicas para a construção</item>
+        <item>Serviço de corte e dobra de metais</item>
+        <item>Fabricação de outros produtos de metal não especificados anteriormente</item>
+        <item>Fabricação de componentes eletrônicos</item>
+        <item>Fabricação de equipamentos de informática</item>
+        <item>Fabricação de periféricos para equipamentos de informática</item>
+        <item>Fabricação de equipamentos transmissores de comunicação</item>
+        <item>Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação</item>
+        <item>Fabricação de aparelhos de recepção</item>
+        <item>Fabricação de aparelhos e equipamentos de medida</item>
+        <item>Fabricação de cronômetros e relógios</item>
+        <item>Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação</item>
+        <item>Fabricação de equipamentos e instrumentos ópticos</item>
+        <item>Fabricação de aparelhos fotográficos e cinematográficos</item>
+        <item>Fabricação de mídias virgens</item>
+        <item>Fabricação de geradores de corrente contínua e alternada</item>
+        <item>Fabricação de transformadores</item>
+        <item>Fabricação de motores elétricos</item>
+        <item>Fabricação de pilhas</item>
+        <item>Fabricação de baterias e acumuladores para veículos automotores</item>
+        <item>Recondicionamento de baterias e acumuladores para veículos automotores</item>
+        <item>Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica</item>
+        <item>Fabricação de material elétrico para instalações em circuito de consumo</item>
+        <item>Fabricação de fios</item>
+        <item>Fabricação de lâmpadas</item>
+        <item>Fabricação de luminárias e outros equipamentos de iluminação</item>
+        <item>Fabricação de fogões</item>
+        <item>Fabricação de aparelhos elétricos de uso pessoal</item>
+        <item>Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente</item>
+        <item>Fabricação de eletrodos</item>
+        <item>Fabricação de equipamentos para sinalização e alarme</item>
+        <item>Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente</item>
+        <item>Fabricação de motores e turbinas</item>
+        <item>Fabricação de equipamentos hidráulicos e pneumáticos</item>
+        <item>Fabricação de válvulas</item>
+        <item>Fabricação de compressores para uso industrial</item>
+        <item>Fabricação de compressores para uso não-industrial</item>
+        <item>Fabricação de rolamentos para fins industriais</item>
+        <item>Fabricação de equipamentos de transmissão para fins industriais</item>
+        <item>Fabricação de fornos industriais</item>
+        <item>Fabricação de estufas e fornos elétricos para fins industriais</item>
+        <item>Fabricação de máquinas</item>
+        <item>Fabricação de máquinas</item>
+        <item>Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial</item>
+        <item>Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial</item>
+        <item>Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial</item>
+        <item>Fabricação de máquinas e equipamentos para saneamento básico e ambiental</item>
+        <item>Fabricação de máquinas de escrever</item>
+        <item>Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente</item>
+        <item>Fabricação de tratores agrícolas</item>
+        <item>Fabricação de equipamentos para irrigação agrícola</item>
+        <item>Fabricação de máquinas e equipamentos para a agricultura e pecuária</item>
+        <item>Fabricação de máquinas-ferramenta</item>
+        <item>Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo</item>
+        <item>Fabricação de outras máquinas e equipamentos para uso na extração mineral</item>
+        <item>Fabricação de tratores</item>
+        <item>Fabricação de máquinas e equipamentos para terraplenagem</item>
+        <item>Fabricação de máquinas para a indústria metalúrgica</item>
+        <item>Fabricação de máquinas e equipamentos para as indústrias de alimentos</item>
+        <item>Fabricação de máquinas e equipamentos para a indústria têxtil</item>
+        <item>Fabricação de máquinas e equipamentos para as indústrias do vestuário</item>
+        <item>Fabricação de máquinas e equipamentos para as indústrias de celulose</item>
+        <item>Fabricação de máquinas e equipamentos para a indústria do plástico</item>
+        <item>Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente</item>
+        <item>Fabricação de automóveis</item>
+        <item>Fabricação de chassis com motor para automóveis</item>
+        <item>Fabricação de motores para automóveis</item>
+        <item>Fabricação de caminhões e ônibus</item>
+        <item>Fabricação de motores para caminhões e ônibus</item>
+        <item>Fabricação de cabines</item>
+        <item>Fabricação de carrocerias para ônibus</item>
+        <item>Fabricação de cabines</item>
+        <item>Fabricação de peças e acessórios para o sistema motor de veículos automotores</item>
+        <item>Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores</item>
+        <item>Fabricação de peças e acessórios para o sistema de freios de veículos automotores</item>
+        <item>Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores</item>
+        <item>Fabricação de material elétrico e eletrônico para veículos automotores</item>
+        <item>Fabricação de bancos e estofados para veículos automotores</item>
+        <item>Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente</item>
+        <item>Recondicionamento e recuperação de motores para veículos automotores</item>
+        <item>Construção de embarcações de grande porte</item>
+        <item>Construção de embarcações para uso comercial e para usos especiais</item>
+        <item>Construção de embarcações para esporte e lazer</item>
+        <item>Fabricação de locomotivas</item>
+        <item>Fabricação de peças e acessórios para veículos ferroviários</item>
+        <item>Fabricação de aeronaves</item>
+        <item>Fabricação de turbinas</item>
+        <item>Fabricação de veículos militares de combate</item>
+        <item>Fabricação de motocicletas</item>
+        <item>Fabricação de motocicletas</item>
+        <item>Fabricação de peças e acessórios para motocicletas</item>
+        <item>Fabricação de bicicletas e triciclos não-motorizados</item>
+        <item>Fabricação de equipamentos de transporte não especificados anteriormente</item>
+        <item>Fabricação de móveis com predominância de madeira</item>
+        <item>Fabricação de móveis com predominância de metal</item>
+        <item>Fabricação de móveis de outros materiais</item>
+        <item>Fabricação de colchões</item>
+        <item>Lapidação de gemas</item>
+        <item>Fabricação de artefatos de joalheria e ourivesaria</item>
+        <item>Cunhagem de moedas e medalhas</item>
+        <item>Fabricação de bijuterias e artefatos semelhantes</item>
+        <item>Fabricação de instrumentos musicais</item>
+        <item>Fabricação de artefatos para pesca e esporte</item>
+        <item>Fabricação de jogos eletrônicos</item>
+        <item>Fabricação de mesas de bilhar</item>
+        <item>Fabricação de mesas de bilhar</item>
+        <item>Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente</item>
+        <item>Fabricação de instrumentos não-eletrônicos e utensílios para uso médico</item>
+        <item>Fabricação de mobiliário para uso médico</item>
+        <item>Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda</item>
+        <item>Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral</item>
+        <item>Fabricação de materiais para medicina e odontologia</item>
+        <item>Serviços de prótese dentária</item>
+        <item>Fabricação de artigos ópticos</item>
+        <item>Fabricação de artefatos de tecido não tecido para uso odonto-médico-hospitalar</item>
+        <item>Serviço de laboratório óptico</item>
+        <item>Fabricação de escovas</item>
+        <item>Fabricação de roupas de proteção e segurança e resistentes a fogo</item>
+        <item>Fabricação de equipamentos e acessórios para segurança pessoal e profissional</item>
+        <item>Fabricação de guarda-chuvas e similares</item>
+        <item>Fabricação de canetas</item>
+        <item>Fabricação de letras</item>
+        <item>Fabricação de painéis e letreiros luminosos</item>
+        <item>Fabricação de aviamentos para costura</item>
+        <item>Fabricação de velas</item>
+        <item>Fabricação de produtos diversos não especificados anteriormente</item>
+        <item>Manutenção e reparação de tanques</item>
+        <item>Manutenção e reparação de aparelhos e instrumentos de medida</item>
+        <item>Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação</item>
+        <item>Manutenção e reparação de equipamentos e instrumentos ópticos</item>
+        <item>Manutenção e reparação de geradores</item>
+        <item>Manutenção e reparação de baterias e acumuladores elétricos</item>
+        <item>Manutenção e reparação de máquinas</item>
+        <item>Manutenção e reparação de máquinas motrizes não-elétricas</item>
+        <item>Manutenção e reparação de equipamentos hidráulicos e pneumáticos</item>
+        <item>Manutenção e reparação de válvulas industriais</item>
+        <item>Manutenção e reparação de compressores</item>
+        <item>Manutenção e reparação de equipamentos de transmissão para fins industriais</item>
+        <item>Manutenção e reparação de máquinas</item>
+        <item>Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial</item>
+        <item>Manutenção e reparação de máquinas</item>
+        <item>Manutenção e reparação de máquinas de escrever</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária</item>
+        <item>Manutenção e reparação de tratores agrícolas</item>
+        <item>Manutenção e reparação de máquinas-ferramenta</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para uso na extração mineral</item>
+        <item>Manutenção e reparação de tratores</item>
+        <item>Manutenção e reparação de máquinas e equipamentos de terraplenagem</item>
+        <item>Manutenção e reparação de máquinas para a indústria metalúrgica</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos</item>
+        <item>Manutenção e reparação de máquinas e equipamentos para a indústria têxtil</item>
+        <item>Manutenção e reparação de máquinas e aparelhos para a indústria de celulose</item>
+        <item>Manutenção e reparação de máquinas e aparelhos para a indústria do plástico</item>
+        <item>Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente</item>
+        <item>Manutenção e reparação de veículos ferroviários</item>
+        <item>Manutenção e reparação de aeronaves</item>
+        <item>Manutenção de aeronaves na pista</item>
+        <item>Manutenção e reparação de embarcações e estruturas flutuantes</item>
+        <item>Manutenção e reparação de embarcações para esporte e lazer</item>
+        <item>Manutenção e reparação de equipamentos e produtos não especificados anteriormente</item>
+        <item>Instalação de máquinas e equipamentos industriais</item>
+        <item>Serviços de montagem de móveis de qualquer material</item>
+        <item>Instalação de outros equipamentos não especificados anteriormente</item>
+        <item>Geração de energia elétrica</item>
+        <item>Geração de energia elétrica</item>
+        <item>Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica</item>
+        <item>Transmissão de energia elétrica</item>
+        <item>Comércio atacadista de energia elétrica</item>
+        <item>Distribuição de energia elétrica</item>
+        <item>Produção de gás; processamento de gás natural</item>
+        <item>Distribuição de combustíveis gasosos por redes urbanas</item>
+        <item>Produção e distribuição de vapor</item>
+        <item>Captação</item>
+        <item>Distribuição de água por caminhões</item>
+        <item>Gestão de redes de esgoto</item>
+        <item>Atividades relacionadas a esgoto</item>
+        <item>Coleta de resíduos não-perigosos</item>
+        <item>Coleta de resíduos perigosos</item>
+        <item>Tratamento e disposição de resíduos não-perigosos</item>
+        <item>Tratamento e disposição de resíduos perigosos</item>
+        <item>Recuperação de sucatas de alumínio</item>
+        <item>Recuperação de materiais metálicos</item>
+        <item>Recuperação de materiais plásticos</item>
+        <item>Usinas de compostagem</item>
+        <item>Recuperação de materiais não especificados anteriormente</item>
+        <item>Descontaminação e outros serviços de gestão de resíduos</item>
+        <item>Incorporação de empreendimentos imobiliários</item>
+        <item>Construção de edifícios</item>
+        <item>Construção de rodovias e ferrovias</item>
+        <item>Pintura para sinalização em pistas rodoviárias e aeroportos</item>
+        <item>Construção de obras-de-arte especiais</item>
+        <item>Obras de urbanização - ruas</item>
+        <item>Construção de barragens e represas para geração de energia elétrica</item>
+        <item>Construção de estações e redes de distribuição de energia elétrica</item>
+        <item>Manutenção de redes de distribuição de energia elétrica</item>
+        <item>Construção de estações e redes de telecomunicações</item>
+        <item>Manutenção de estações e redes de telecomunicações</item>
+        <item>Construção de redes de abastecimento de água</item>
+        <item>Obras de irrigação</item>
+        <item>Construção de redes de transportes por dutos</item>
+        <item>Obras portuárias</item>
+        <item>Montagem de estruturas metálicas</item>
+        <item>Obras de montagem industrial</item>
+        <item>Construção de instalações esportivas e recreativas</item>
+        <item>Outras obras de engenharia civil não especificadas anteriormente</item>
+        <item>Demolição de edifícios e outras estruturas</item>
+        <item>Preparação de canteiro e limpeza de terreno</item>
+        <item>Perfurações e sondagens</item>
+        <item>Obras de terraplenagem</item>
+        <item>Serviços de preparação do terreno não especificados anteriormente</item>
+        <item>Instalação e manutenção elétrica</item>
+        <item>Instalações hidráulicas</item>
+        <item>Instalação e manutenção de sistemas centrais de ar condicionado</item>
+        <item>Instalações de sistema de prevenção contra incêndio</item>
+        <item>Instalação de painéis publicitários</item>
+        <item>Instalação de equipamentos para orientação à navegação marítima</item>
+        <item>Instalação</item>
+        <item>Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas</item>
+        <item>Tratamentos térmicos</item>
+        <item>Outras obras de instalações em construções não especificadas anteriormente</item>
+        <item>Impermeabilização em obras de engenharia civil</item>
+        <item>Instalação de portas</item>
+        <item>Obras de acabamento em gesso e estuque</item>
+        <item>Serviços de pintura de edifícios em geral</item>
+        <item>Aplicação de revestimentos e de resinas em interiores e exteriores</item>
+        <item>Outras obras de acabamento da construção</item>
+        <item>Obras de fundações</item>
+        <item>Administração de obras</item>
+        <item>Montagem e desmontagem de andaimes e outras estruturas temporárias</item>
+        <item>Obras de alvenaria</item>
+        <item>Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras</item>
+        <item>Perfuração e construção de poços de água</item>
+        <item>Serviços especializados para construção não especificados anteriormente</item>
+        <item>Comércio a varejo de automóveis</item>
+        <item>Comércio a varejo de automóveis</item>
+        <item>Comércio por atacado de automóveis</item>
+        <item>Comércio por atacado de caminhões novos e usados</item>
+        <item>Comércio por atacado de reboques e semi-reboques novos e usados</item>
+        <item>Comércio por atacado de ônibus e microônibus novos e usados</item>
+        <item>Representantes comerciais e agentes do comércio de veículos automotores</item>
+        <item>Comércio sob consignação de veículos automotores</item>
+        <item>Serviços de manutenção e reparação mecânica de veículos automotores</item>
+        <item>Serviços de lanternagem ou funilaria e pintura de veículos automotores</item>
+        <item>Serviços de manutenção e reparação elétrica de veículos automotores</item>
+        <item>Serviços de alinhamento e balanceamento de veículos automotores</item>
+        <item>Serviços de lavagem</item>
+        <item>Serviços de borracharia para veículos automotores</item>
+        <item>Serviços de instalação</item>
+        <item>Serviços de capotaria</item>
+        <item>Comércio por atacado de peças e acessórios novos para veículos automotores</item>
+        <item>Comércio por atacado de pneumáticos e câmaras-de-ar</item>
+        <item>Comércio a varejo de peças e acessórios novos para veículos automotores</item>
+        <item>Comércio a varejo de peças e acessórios usados para veículos automotores</item>
+        <item>Comércio a varejo de pneumáticos e câmaras-de-ar</item>
+        <item>Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores</item>
+        <item>Comércio por atacado de motocicletas e motonetas</item>
+        <item>Comércio por atacado de peças e acessórios para motocicletas e motonetas</item>
+        <item>Comércio a varejo de motocicletas e motonetas novas</item>
+        <item>Comércio a varejo de motocicletas e motonetas usadas</item>
+        <item>Comércio a varejo de peças e acessórios para motocicletas e motonetas</item>
+        <item>Representantes comerciais e agentes do comércio de motocicletas e motonetas</item>
+        <item>Comércio sob consignação de motocicletas e motonetas</item>
+        <item>Manutenção e reparação de motocicletas e motonetas</item>
+        <item>Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos</item>
+        <item>Representantes comerciais e agentes do comércio de combustíveis</item>
+        <item>Representantes comerciais e agentes do comércio de madeira</item>
+        <item>Representantes comerciais e agentes do comércio de máquinas</item>
+        <item>Representantes comerciais e agentes do comércio de eletrodomésticos</item>
+        <item>Representantes comerciais e agentes do comércio de têxteis</item>
+        <item>Representantes comerciais e agentes do comércio de produtos alimentícios</item>
+        <item>Representantes comerciais e agentes do comércio de medicamentos</item>
+        <item>Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares</item>
+        <item>Representantes comerciais e agentes do comércio de jornais</item>
+        <item>Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente</item>
+        <item>Representantes comerciais e agentes do comércio de mercadorias em geral não especializado</item>
+        <item>Comércio atacadista de café em grão</item>
+        <item>Comércio atacadista de soja</item>
+        <item>Comércio atacadista de animais vivos</item>
+        <item>Comércio atacadista de couros</item>
+        <item>Comércio atacadista de algodão</item>
+        <item>Comércio atacadista de fumo em folha não beneficiado</item>
+        <item>Comércio atacadista de cacau</item>
+        <item>Comércio atacadista de sementes</item>
+        <item>Comércio atacadista de sisal</item>
+        <item>Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada</item>
+        <item>Comércio atacadista de alimentos para animais</item>
+        <item>Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente</item>
+        <item>Comércio atacadista de leite e laticínios</item>
+        <item>Comércio atacadista de cereais e leguminosas beneficiados</item>
+        <item>Comércio atacadista de farinhas</item>
+        <item>Comércio atacadista de cereais e leguminosas beneficiados</item>
+        <item>Comércio atacadista de frutas</item>
+        <item>Comércio atacadista de aves vivas e ovos</item>
+        <item>Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação</item>
+        <item>Comércio atacadista de carnes bovinas e suínas e derivados</item>
+        <item>Comércio atacadista de aves abatidas e derivados</item>
+        <item>Comércio atacadista de pescados e frutos do mar</item>
+        <item>Comércio atacadista de carnes e derivados de outros animais</item>
+        <item>Comércio atacadista de água mineral</item>
+        <item>Comércio atacadista de cerveja</item>
+        <item>Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada</item>
+        <item>Comércio atacadista de bebidas não especificadas anteriormente</item>
+        <item>Comércio atacadista de fumo beneficiado</item>
+        <item>Comércio atacadista de cigarros</item>
+        <item>Comércio atacadista de café torrado</item>
+        <item>Comércio atacadista de açúcar</item>
+        <item>Comércio atacadista de óleos e gorduras</item>
+        <item>Comércio atacadista de pães</item>
+        <item>Comércio atacadista de massas alimentícias</item>
+        <item>Comércio atacadista de sorvetes</item>
+        <item>Comércio atacadista de chocolates</item>
+        <item>Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente</item>
+        <item>Comércio atacadista de produtos alimentícios em geral</item>
+        <item>Comércio atacadista de produtos alimentícios em geral</item>
+        <item>Comércio atacadista de tecidos</item>
+        <item>Comércio atacadista de artigos de cama</item>
+        <item>Comércio atacadista de artigos de armarinho</item>
+        <item>Comércio atacadista de artigos do vestuário e acessórios</item>
+        <item>Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho</item>
+        <item>Comércio atacadista de calçados</item>
+        <item>Comércio atacadista de bolsas</item>
+        <item>Comércio atacadista de medicamentos e drogas de uso humano</item>
+        <item>Comércio atacadista de medicamentos e drogas de uso veterinário</item>
+        <item>Comércio atacadista de instrumentos e materiais para uso médico</item>
+        <item>Comércio atacadista de próteses e artigos de ortopedia</item>
+        <item>Comércio atacadista de produtos odontológicos</item>
+        <item>Comércio atacadista de cosméticos e produtos de perfumaria</item>
+        <item>Comércio atacadista de produtos de higiene pessoal</item>
+        <item>Comércio atacadista de artigos de escritório e de papelaria</item>
+        <item>Comércio atacadista de livros</item>
+        <item>Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico</item>
+        <item>Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico</item>
+        <item>Comércio atacadista de bicicletas</item>
+        <item>Comércio atacadista de móveis e artigos de colchoaria</item>
+        <item>Comércio atacadista de artigos de tapeçaria; persianas e cortinas</item>
+        <item>Comércio atacadista de lustres</item>
+        <item>Comércio atacadista de filmes</item>
+        <item>Comércio atacadista de produtos de higiene</item>
+        <item>Comércio atacadista de produtos de higiene</item>
+        <item>Comércio atacadista de jóias</item>
+        <item>Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente</item>
+        <item>Comércio atacadista de equipamentos de informática</item>
+        <item>Comércio atacadista de suprimentos para informática</item>
+        <item>Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação</item>
+        <item>Comércio atacadista de máquinas</item>
+        <item>Comércio atacadista de máquinas</item>
+        <item>Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças</item>
+        <item>Comércio atacadista de máquinas</item>
+        <item>Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças</item>
+        <item>Comércio atacadista de bombas e compressores; partes e peças</item>
+        <item>Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças</item>
+        <item>Comércio atacadista de madeira e produtos derivados</item>
+        <item>Comércio atacadista de ferragens e ferramentas</item>
+        <item>Comércio atacadista de material elétrico</item>
+        <item>Comércio atacadista de cimento</item>
+        <item>Comércio atacadista de tintas</item>
+        <item>Comércio atacadista de mármores e granitos</item>
+        <item>Comércio atacadista de vidros</item>
+        <item>Comércio atacadista especializado de materiais de construção não especificados anteriormente</item>
+        <item>Comércio atacadista de materiais de construção em geral</item>
+        <item>Comércio atacadista de álcool carburante</item>
+        <item>Comércio atacadista de combustíveis realizado por transportador retalhista (TRR)</item>
+        <item>Comércio atacadista de combustíveis de origem vegetal</item>
+        <item>Comércio atacadista de combustíveis de origem mineral em bruto</item>
+        <item>Comércio atacadista de lubrificantes</item>
+        <item>Comércio atacadista de gás liqüefeito de petróleo (GLP)</item>
+        <item>Comércio atacadista de defensivos agrícolas</item>
+        <item>Comércio atacadista de resinas e elastômeros</item>
+        <item>Comércio atacadista de solventes</item>
+        <item>Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente</item>
+        <item>Comércio atacadista de produtos siderúrgicos e metalúrgicos</item>
+        <item>Comércio atacadista de papel e papelão em bruto</item>
+        <item>Comércio atacadista de embalagens</item>
+        <item>Comércio atacadista de resíduos de papel e papelão</item>
+        <item>Comércio atacadista de resíduos e sucatas não-metálicos</item>
+        <item>Comércio atacadista de resíduos e sucatas metálicos</item>
+        <item>Comércio atacadista de produtos da extração mineral</item>
+        <item>Comércio atacadista de fios e fibras beneficiados</item>
+        <item>Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente</item>
+        <item>Comércio atacadista de mercadorias em geral</item>
+        <item>Comércio atacadista de mercadorias em geral</item>
+        <item>Comércio atacadista de mercadorias em geral</item>
+        <item>Comércio varejista de mercadorias em geral</item>
+        <item>Comércio varejista de mercadorias em geral</item>
+        <item>Comércio varejista de mercadorias em geral</item>
+        <item>Lojas de departamentos ou magazines</item>
+        <item>Lojas de variedades</item>
+        <item>Lojas duty free de aeroportos internacionais</item>
+        <item>Padaria e confeitaria com predominância de produção própria</item>
+        <item>Padaria e confeitaria com predominância de revenda</item>
+        <item>Comércio varejista de laticínios e frios</item>
+        <item>Comércio varejista de doces</item>
+        <item>Comércio varejista de carnes - açougues</item>
+        <item>Peixaria</item>
+        <item>Comércio varejista de bebidas</item>
+        <item>Comércio varejista de hortifrutigranjeiros</item>
+        <item>Tabacaria</item>
+        <item>Comércio varejista de mercadorias em lojas de conveniência</item>
+        <item>Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente</item>
+        <item>Comércio varejista de combustíveis para veículos automotores</item>
+        <item>Comércio varejista de lubrificantes</item>
+        <item>Comércio varejista de tintas e materiais para pintura</item>
+        <item>Comércio varejista de material elétrico</item>
+        <item>Comércio varejista de vidros</item>
+        <item>Comércio varejista de ferragens e ferramentas</item>
+        <item>Comércio varejista de madeira e artefatos</item>
+        <item>Comércio varejista de materiais hidráulicos</item>
+        <item>Comércio varejista de cal</item>
+        <item>Comércio varejista de materiais de construção não especificados anteriormente</item>
+        <item>Comércio varejista de pedras para revestimento</item>
+        <item>Comércio varejista de materiais de construção em geral</item>
+        <item>Comércio varejista especializado de equipamentos e suprimentos de informática</item>
+        <item>Comércio varejista especializado de equipamentos e suprimentos de informática</item>
+        <item>Recarga de cartuchos para equipamentos de informática</item>
+        <item>Comércio varejista especializado de equipamentos de telefonia e comunicação</item>
+        <item>Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo</item>
+        <item>Comércio varejista de móveis</item>
+        <item>Comércio varejista de artigos de colchoaria</item>
+        <item>Comércio varejista de artigos de iluminação</item>
+        <item>Comércio varejista de tecidos</item>
+        <item>Comercio varejista de artigos de armarinho</item>
+        <item>Comercio varejista de artigos de cama</item>
+        <item>Comércio varejista especializado de instrumentos musicais e acessórios</item>
+        <item>Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico</item>
+        <item>Comércio varejista de artigos de tapeçaria</item>
+        <item>Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente</item>
+        <item>Comércio varejista de livros</item>
+        <item>Comércio varejista de jornais e revistas</item>
+        <item>Comércio varejista de artigos de papelaria</item>
+        <item>Comércio varejista de discos</item>
+        <item>Comércio varejista de brinquedos e artigos recreativos</item>
+        <item>Comércio varejista de artigos esportivos</item>
+        <item>Comércio varejista de bicicletas e triciclos; peças e acessórios</item>
+        <item>Comércio varejista de artigos de caça</item>
+        <item>Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios</item>
+        <item>Comércio varejista de produtos farmacêuticos</item>
+        <item>Comércio varejista de produtos farmacêuticos</item>
+        <item>Comércio varejista de produtos farmacêuticos homeopáticos</item>
+        <item>Comércio varejista de medicamentos veterinários</item>
+        <item>Comércio varejista de cosméticos</item>
+        <item>Comércio varejista de artigos médicos e ortopédicos</item>
+        <item>Comércio varejista de artigos de óptica</item>
+        <item>Comércio varejista de artigos do vestuário e acessórios</item>
+        <item>Comércio varejista de calçados</item>
+        <item>Comércio varejista de artigos de viagem</item>
+        <item>Comércio varejista de artigos de joalheria</item>
+        <item>Comércio varejista de artigos de relojoaria</item>
+        <item>Comércio varejista de gás liqüefeito de petróleo (GLP)</item>
+        <item>Comércio varejista de antigüidades</item>
+        <item>Comércio varejista de outros artigos usados</item>
+        <item>Comércio varejista de suvenires</item>
+        <item>Comércio varejista de plantas e flores naturais</item>
+        <item>Comércio varejista de objetos de arte</item>
+        <item>Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação</item>
+        <item>Comércio varejista de produtos saneantes domissanitários</item>
+        <item>Comércio varejista de fogos de artifício e artigos pirotécnicos</item>
+        <item>Comércio varejista de equipamentos para escritório</item>
+        <item>Comércio varejista de artigos fotográficos e para filmagem</item>
+        <item>Comércio varejista de armas e munições</item>
+        <item>Comércio varejista de outros produtos não especificados anteriormente</item>
+        <item>Transporte ferroviário de carga</item>
+        <item>Transporte ferroviário de passageiros intermunicipal e interestadual</item>
+        <item>Transporte ferroviário de passageiros municipal e em região metropolitana</item>
+        <item>Transporte metroviário</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Serviço de táxi</item>
+        <item>Serviço de transporte de passageiros - locação de automóveis com motorista</item>
+        <item>Transporte escolar</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Transporte rodoviário coletivo de passageiros</item>
+        <item>Organização de excursões em veículos rodoviários próprios</item>
+        <item>Organização de excursões em veículos rodoviários próprios</item>
+        <item>Outros transportes rodoviários de passageiros não especificados anteriormente</item>
+        <item>Transporte rodoviário de carga</item>
+        <item>Transporte rodoviário de carga</item>
+        <item>Transporte rodoviário de produtos perigosos</item>
+        <item>Transporte rodoviário de mudanças</item>
+        <item>Transporte dutoviário</item>
+        <item>Trens turísticos</item>
+        <item>Transporte marítimo de cabotagem - Carga</item>
+        <item>Transporte marítimo de cabotagem - passageiros</item>
+        <item>Transporte marítimo de longo curso - Carga</item>
+        <item>Transporte marítimo de longo curso - Passageiros</item>
+        <item>Transporte por navegação interior de carga</item>
+        <item>Transporte por navegação interior de carga</item>
+        <item>Transporte por navegação interior de passageiros em linhas regulares</item>
+        <item>Transporte por navegação interior de passageiros em linhas regulares</item>
+        <item>Navegação de apoio marítimo</item>
+        <item>Navegação de apoio portuário</item>
+        <item>Serviço de rebocadores e empurradores</item>
+        <item>Transporte por navegação de travessia</item>
+        <item>Transporte por navegação de travessia intermunicipal</item>
+        <item>Transporte aquaviário para passeios turísticos</item>
+        <item>Outros transportes aquaviários não especificados anteriormente</item>
+        <item>Transporte aéreo de passageiros regular</item>
+        <item>Serviço de táxi aéreo e locação de aeronaves com tripulação</item>
+        <item>Outros serviços de transporte aéreo de passageiros não-regular</item>
+        <item>Transporte aéreo de carga</item>
+        <item>Transporte espacial</item>
+        <item>Armazéns gerais - emissão de warrant</item>
+        <item>Guarda-móveis</item>
+        <item>Depósitos de mercadorias para terceiros</item>
+        <item>Carga e descarga</item>
+        <item>Concessionárias de rodovias</item>
+        <item>Terminais rodoviários e ferroviários</item>
+        <item>Estacionamento de veículos</item>
+        <item>Serviços de apoio ao transporte por táxi</item>
+        <item>Serviços de reboque de veículos</item>
+        <item>Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente</item>
+        <item>Administração da infra-estrutura portuária</item>
+        <item>Atividades do Operador Portuário</item>
+        <item>Gestão de terminais aquaviários </item>
+        <item>Atividades de agenciamento marítimo</item>
+        <item>Atividades auxiliares dos transportes aquaviários não especificadas anteriormente</item>
+        <item>Serviços de praticagem</item>
+        <item>Atividades auxiliares dos transportes aquaviários não especificadas anteriormente</item>
+        <item>Operação dos aeroportos e campos de aterrissagem</item>
+        <item>Atividades auxiliares dos transportes aéreos</item>
+        <item>Comissaria de despachos</item>
+        <item>Atividades de despachantes aduaneiros</item>
+        <item>Agenciamento de cargas</item>
+        <item>Organização logística do transporte de carga</item>
+        <item>Operador de transporte multimodal - OTM</item>
+        <item>Atividades do Correio Nacional</item>
+        <item>Atividades de franqueadas e permissionárias do Correio Nacional</item>
+        <item>Serviços de malote não realizados pelo Correio Nacional</item>
+        <item>Serviços de entrega rápida</item>
+        <item>Hotéis</item>
+        <item>Apart-hotéis</item>
+        <item>Motéis</item>
+        <item>Albergues</item>
+        <item>Campings</item>
+        <item>Pensões (alojamento)</item>
+        <item>Outros alojamentos não especificados anteriormente</item>
+        <item>Restaurantes e similares</item>
+        <item>Bares e outros estabelecimentos especializados em servir bebidas</item>
+        <item>Lanchonetes</item>
+        <item>Serviços ambulantes de alimentação</item>
+        <item>Fornecimento de alimentos preparados preponderantemente para empresas</item>
+        <item>Serviços de alimentação para eventos e recepções - bufê</item>
+        <item>Cantinas - serviços de alimentação privativos</item>
+        <item>Fornecimento de alimentos preparados preponderantemente para consumo domiciliar</item>
+        <item>Edição de livros</item>
+        <item>Edição de jornais</item>
+        <item>Edição de jornais diários</item>
+        <item>Edição de jornais não diários</item>
+        <item>Edição de revistas</item>
+        <item>Edição de cadastros</item>
+        <item>Edição integrada à impressão de livros</item>
+        <item>Edição integrada à impressão de jornais</item>
+        <item>Edição integrada à impressão de jornais diários</item>
+        <item>Edição integrada à impressão de jornais não diários</item>
+        <item>Edição integrada à impressão de revistas</item>
+        <item>Edição integrada à impressão de cadastros</item>
+        <item>Estúdios cinematográficos</item>
+        <item>Produção de filmes para publicidade</item>
+        <item>Atividades de produção cinematográfica</item>
+        <item>Serviços de dublagem</item>
+        <item>Serviços de mixagem sonora em produção audiovisual</item>
+        <item>Atividades de pós-produção cinematográfica</item>
+        <item>Distribuição cinematográfica</item>
+        <item>Atividades de exibição cinematográfica</item>
+        <item>Atividades de gravação de som e de edição de música</item>
+        <item>Atividades de rádio</item>
+        <item>Atividades de televisão aberta</item>
+        <item>Programadoras</item>
+        <item>Atividades relacionadas à televisão por assinatura</item>
+        <item>Serviços de telefonia fixa comutada - STFC</item>
+        <item>Serviços de redes de transporte de telecomunicações - SRTT</item>
+        <item>Serviços de comunicação multimídia - SCM</item>
+        <item>Serviços de telecomunicações por fio não especificados anteriormente</item>
+        <item>Telefonia móvel celular</item>
+        <item>Serviço móvel especializado - SME</item>
+        <item>Serviços de telecomunicações sem fio não especificados anteriormente</item>
+        <item>Telecomunicações por satélite</item>
+        <item>Operadoras de televisão por assinatura por cabo</item>
+        <item>Operadoras de televisão por assinatura por microondas</item>
+        <item>Operadoras de televisão por assinatura por satélite</item>
+        <item>Provedores de acesso às redes de comunicações</item>
+        <item>Provedores de voz sobre protocolo internet - VOIP</item>
+        <item>Outras atividades de telecomunicações não especificadas anteriormente</item>
+        <item>Desenvolvimento de programas de computador sob encomenda</item>
+        <item>Desenvolvimento de programas de computador sob encomenda</item>
+        <item>Web design</item>
+        <item>Desenvolvimento e licenciamento de programas de computador customizáveis</item>
+        <item>Desenvolvimento e licenciamento de programas de computador não-customizáveis</item>
+        <item>Consultoria em tecnologia da informação</item>
+        <item>Suporte técnico</item>
+        <item>Tratamento de dados</item>
+        <item>Portais</item>
+        <item>Agências de notícias</item>
+        <item>Outras atividades de prestação de serviços de informação não especificadas anteriormente</item>
+        <item>Banco Central</item>
+        <item>Bancos comerciais</item>
+        <item>Bancos múltiplos</item>
+        <item>Caixas econômicas</item>
+        <item>Bancos cooperativos</item>
+        <item>Cooperativas centrais de crédito</item>
+        <item>Cooperativas de crédito mútuo</item>
+        <item>Cooperativas de crédito rural</item>
+        <item>Bancos múltiplos</item>
+        <item>Bancos de investimento</item>
+        <item>Bancos de desenvolvimento</item>
+        <item>Agências de fomento</item>
+        <item>Sociedades de crédito imobiliário</item>
+        <item>Associações de poupança e empréstimo</item>
+        <item>Companhias hipotecárias</item>
+        <item>Sociedades de crédito</item>
+        <item>Sociedades de crédito ao microempreendedor</item>
+        <item>Bancos de câmbio</item>
+        <item>Outras instituições de intermediação não-monetária não especificadas anteriormente</item>
+        <item>Arrendamento mercantil</item>
+        <item>Sociedades de capitalização</item>
+        <item>Holdings de instituições financeiras</item>
+        <item>Holdings de instituições não-financeiras</item>
+        <item>Outras sociedades de participação</item>
+        <item>Fundos de investimento</item>
+        <item>Fundos de investimento previdenciários</item>
+        <item>Fundos de investimento imobiliários</item>
+        <item>Sociedades de fomento mercantil - factoring</item>
+        <item>Securitização de créditos</item>
+        <item>Administração de consórcios para aquisição de bens e direitos</item>
+        <item>Clubes de investimento</item>
+        <item>Sociedades de investimento</item>
+        <item>Fundo garantidor de crédito</item>
+        <item>Caixas de financiamento de corporações</item>
+        <item>Concessão de crédito pelas OSCIP</item>
+        <item>Outras atividades de serviços financeiros não especificadas anteriormente</item>
+        <item>Sociedade seguradora de seguros vida</item>
+        <item>Planos de auxílio-funeral</item>
+        <item>Sociedade seguradora de seguros não vida</item>
+        <item>Sociedade seguradora de seguros saúde</item>
+        <item>Resseguros</item>
+        <item>Previdência complementar fechada</item>
+        <item>Previdência complementar aberta</item>
+        <item>Planos de saúde</item>
+        <item>Bolsa de valores</item>
+        <item>Bolsa de mercadorias</item>
+        <item>Bolsa de mercadorias e futuros</item>
+        <item>Administração de mercados de balcão organizados</item>
+        <item>Corretoras de títulos e valores mobiliários</item>
+        <item>Distribuidoras de títulos e valores mobiliários</item>
+        <item>Corretoras de câmbio</item>
+        <item>Corretoras de contratos de mercadorias</item>
+        <item>Agentes de investimentos em aplicações financeiras</item>
+        <item>Administração de cartões de crédito</item>
+        <item>Serviços de liquidação e custódia</item>
+        <item>Correspondentes de instituições financeiras</item>
+        <item>Representações de bancos estrangeiros</item>
+        <item>Caixas eletrônicos</item>
+        <item>Operadoras de cartões de débito</item>
+        <item>Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente</item>
+        <item>Peritos e avaliadores de seguros</item>
+        <item>Auditoria e consultoria atuarial</item>
+        <item>Corretores e agentes de seguros</item>
+        <item>Atividades auxiliares dos seguros</item>
+        <item>Atividades de administração de fundos por contrato ou comissão</item>
+        <item>Compra e venda de imóveis próprios</item>
+        <item>Aluguel de imóveis próprios</item>
+        <item>Loteamento de imóveis próprios</item>
+        <item>Corretagem na compra e venda e avaliação de imóveis</item>
+        <item>Corretagem no aluguel de imóveis</item>
+        <item>Gestão e administração da propriedade imobiliária</item>
+        <item>Serviços advocatícios</item>
+        <item>Atividades auxiliares da justiça</item>
+        <item>Agente de propriedade industrial</item>
+        <item>Cartórios</item>
+        <item>Atividades de contabilidade</item>
+        <item>Atividades de consultoria e auditoria contábil e tributária</item>
+        <item>Atividades de consultoria em gestão empresarial</item>
+        <item>Serviços de arquitetura</item>
+        <item>Serviços de engenharia</item>
+        <item>Serviços de cartografia</item>
+        <item>Atividades de estudos geológicos</item>
+        <item>Serviços de desenho técnico relacionados à arquitetura e engenharia</item>
+        <item>Serviços de perícia técnica relacionados à segurança do trabalho</item>
+        <item>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente</item>
+        <item>Testes e análises técnicas</item>
+        <item>Pesquisa e desenvolvimento experimental em ciências físicas e naturais</item>
+        <item>Pesquisa e desenvolvimento experimental em ciências sociais e humanas</item>
+        <item>Agências de publicidade</item>
+        <item>Agenciamento de espaços para publicidade</item>
+        <item>Criação de estandes para feiras e exposições</item>
+        <item>Promoção de vendas</item>
+        <item>Marketing direto</item>
+        <item>Consultoria em publicidade</item>
+        <item>Outras atividades de publicidade não especificadas anteriormente</item>
+        <item>Pesquisas de mercado e de opinião pública</item>
+        <item>Design</item>
+        <item>Design de interiores</item>
+        <item>Design de produto</item>
+        <item>Atividades de design não especificadas anteriormente</item>
+        <item>Atividades de produção de fotografias</item>
+        <item>Atividades de produção de fotografias aéreas e submarinas</item>
+        <item>Laboratórios fotográficos</item>
+        <item>Filmagem de festas e eventos</item>
+        <item>Serviços de microfilmagem</item>
+        <item>Serviços de tradução</item>
+        <item>Escafandria e mergulho</item>
+        <item>Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias</item>
+        <item>Atividades de intermediação e agenciamento de serviços e negócios em geral</item>
+        <item>Agenciamento de profissionais para atividades esportivas</item>
+        <item>Outras atividades profissionais</item>
+        <item>Atividades veterinárias</item>
+        <item>Locação de automóveis sem condutor</item>
+        <item>Locação de embarcações sem tripulação</item>
+        <item>Locação de aeronaves sem tripulação</item>
+        <item>Locação de outros meios de transporte não especificados anteriormente</item>
+        <item>Aluguel de equipamentos recreativos e esportivos</item>
+        <item>Aluguel de fitas de vídeo</item>
+        <item>Aluguel de objetos do vestuário</item>
+        <item>Aluguel de aparelhos de jogos eletrônicos</item>
+        <item>Aluguel de móveis</item>
+        <item>Aluguel de material médico</item>
+        <item>Aluguel de outros objetos pessoais e domésticos não especificados anteriormente</item>
+        <item>Aluguel de máquinas e equipamentos agrícolas sem operador</item>
+        <item>Aluguel de máquinas e equipamentos para construção sem operador</item>
+        <item>Aluguel de andaimes</item>
+        <item>Aluguel de máquinas e equipamentos para escritório</item>
+        <item>Aluguel de máquinas e equipamentos para extração de minérios e petróleo</item>
+        <item>Aluguel de equipamentos científicos</item>
+        <item>Aluguel de palcos</item>
+        <item>Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente</item>
+        <item>Gestão de ativos intangíveis não-financeiros</item>
+        <item>Seleção e agenciamento de mão-de-obra</item>
+        <item>Locação de mão-de-obra temporária</item>
+        <item>Fornecimento e gestão de recursos humanos para terceiros</item>
+        <item>Agências de viagens</item>
+        <item>Operadores turísticos</item>
+        <item>Serviços de reservas e outros serviços de turismo não especificados anteriormente</item>
+        <item>Atividades de vigilância e segurança privada</item>
+        <item>Serviços de adestramento de cães de guarda</item>
+        <item>Atividades de transporte de valores</item>
+        <item>Atividades de monitoramento de sistemas de segurança</item>
+        <item>Atividades de monitoramento de sistemas de segurança eletrônico</item>
+        <item>Outras atividades de serviços de segurança</item>
+        <item>Atividades de investigação particular</item>
+        <item>Serviços combinados para apoio a edifícios</item>
+        <item>Condomínios prediais</item>
+        <item>Limpeza em prédios e em domicílios</item>
+        <item>Imunização e controle de pragas urbanas</item>
+        <item>Atividades de limpeza não especificadas anteriormente</item>
+        <item>Atividades paisagísticas</item>
+        <item>Serviços combinados de escritório e apoio administrativo</item>
+        <item>Fotocópias</item>
+        <item>Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente</item>
+        <item>Atividades de teleatendimento</item>
+        <item>Serviços de organização de feiras</item>
+        <item>Casas de festas e eventos</item>
+        <item>Atividades de cobrança e informações cadastrais</item>
+        <item>Envasamento e empacotamento sob contrato</item>
+        <item>Medição de consumo de energia elétrica</item>
+        <item>Emissão de vales-alimentação</item>
+        <item>Serviços de gravação de carimbos</item>
+        <item>Leiloeiros independentes</item>
+        <item>Serviços de levantamento de fundos sob contrato</item>
+        <item>Casas lotéricas</item>
+        <item>Salas de acesso à internet</item>
+        <item>Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente</item>
+        <item>Administração pública em geral</item>
+        <item>Regulação das atividades de saúde</item>
+        <item>Regulação das atividades econômicas</item>
+        <item>Relações exteriores</item>
+        <item>Defesa</item>
+        <item>Justiça</item>
+        <item>Segurança e ordem pública</item>
+        <item>Defesa Civil</item>
+        <item>Seguridade social obrigatória</item>
+        <item>Educação infantil - creche</item>
+        <item>Educação infantil - pré-escola</item>
+        <item>Ensino fundamental</item>
+        <item>Ensino médio</item>
+        <item>Educação superior - graduação</item>
+        <item>Educação superior - graduação e pós-graduação</item>
+        <item>Educação superior - pós-graduação e extensão</item>
+        <item>Educação profissional de nível técnico</item>
+        <item>Educação profissional de nível tecnológico</item>
+        <item>Administração de caixas escolares</item>
+        <item>Atividades de apoio à educação</item>
+        <item>Ensino de esportes</item>
+        <item>Ensino de dança</item>
+        <item>Ensino de artes cênicas</item>
+        <item>Ensino de música</item>
+        <item>Ensino de arte e cultura não especificado anteriormente</item>
+        <item>Ensino de idiomas</item>
+        <item>Formação de condutores</item>
+        <item>Cursos de pilotagem</item>
+        <item>Treinamento em informática</item>
+        <item>Treinamento em desenvolvimento profissional e gerencial</item>
+        <item>Cursos preparatórios para concursos</item>
+        <item>Outras atividades de ensino não especificadas anteriormente</item>
+        <item>Atividades de atendimento hospitalar</item>
+        <item>Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências</item>
+        <item>UTI móvel</item>
+        <item>Serviços móveis de atendimento a urgências</item>
+        <item>Serviços de remoção de pacientes</item>
+        <item>Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos</item>
+        <item>Atividade médica ambulatorial com recursos para realização de exames complementares</item>
+        <item>Atividade médica ambulatorial restrita a consultas</item>
+        <item>Atividade odontológica</item>
+        <item>Serviços de vacinação e imunização humana</item>
+        <item>Atividades de reprodução humana assistida</item>
+        <item>Atividades de atenção ambulatorial não especificadas anteriormente</item>
+        <item>Laboratórios de anatomia patológica e citológica</item>
+        <item>Laboratórios clínicos</item>
+        <item>Serviços de diálise e nefrologia</item>
+        <item>Serviços de tomografia</item>
+        <item>Serviços de diagnóstico por imagem com uso de radiação ionizante</item>
+        <item>Serviços de ressonância magnética</item>
+        <item>Serviços de diagnóstico por imagem sem uso de radiação ionizante</item>
+        <item>Serviços de diagnóstico por registro gráfico - ECG</item>
+        <item>Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos</item>
+        <item>Serviços de quimioterapia</item>
+        <item>Serviços de radioterapia</item>
+        <item>Serviços de hemoterapia</item>
+        <item>Serviços de litotripsia</item>
+        <item>Serviços de bancos de células e tecidos humanos</item>
+        <item>Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente</item>
+        <item>Atividades de enfermagem</item>
+        <item>Atividades de profissionais da nutrição</item>
+        <item>Atividades de psicologia e psicanálise</item>
+        <item>Atividades de fisioterapia</item>
+        <item>Atividades de terapia ocupacional</item>
+        <item>Atividades de fonoaudiologia</item>
+        <item>Atividades de terapia de nutrição enteral e parenteral</item>
+        <item>Atividades de profissionais da área de saúde não especificadas anteriormente</item>
+        <item>Atividades de apoio à gestão de saúde</item>
+        <item>Atividades de práticas integrativas e complementares em saúde humana</item>
+        <item>Atividades de bancos de leite humano</item>
+        <item>Atividades de acupuntura</item>
+        <item>Atividades de podologia</item>
+        <item>Outras atividades de atenção à saúde humana não especificadas anteriormente</item>
+        <item>Clínicas e residências geriátricas</item>
+        <item>Instituições de longa permanência para idosos</item>
+        <item>Atividades de assistência a deficientes físicos</item>
+        <item>Centros de apoio a pacientes com câncer e com AIDS</item>
+        <item>Condomínios residenciais para idosos</item>
+        <item>Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio</item>
+        <item>Atividades de centros de assistência psicossocial</item>
+        <item>Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos</item>
+        <item>Orfanatos</item>
+        <item>Albergues assistenciais</item>
+        <item>Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente</item>
+        <item>Serviços de assistência social sem alojamento</item>
+        <item>Produção teatral</item>
+        <item>Produção musical</item>
+        <item>Produção de espetáculos de dança</item>
+        <item>Produção de espetáculos circenses</item>
+        <item>Produção de espetáculos de rodeios</item>
+        <item>Atividades de sonorização e de iluminação</item>
+        <item>Artes cênicas</item>
+        <item>Atividades de artistas plásticos</item>
+        <item>Restauração de obras de arte</item>
+        <item>Gestão de espaços para artes cênicas</item>
+        <item>Atividades de bibliotecas e arquivos</item>
+        <item>Atividades de museus e de exploração de lugares e prédios históricos e atrações similares</item>
+        <item>Restauração e conservação de lugares e prédios históricos</item>
+        <item>Atividades de jardins botânicos</item>
+        <item>Casas de bingo</item>
+        <item>Exploração de apostas em corridas de cavalos</item>
+        <item>Exploração de jogos de azar e apostas não especificados anteriormente</item>
+        <item>Gestão de instalações de esportes</item>
+        <item>Clubes sociais</item>
+        <item>Atividades de condicionamento físico</item>
+        <item>Produção e promoção de eventos esportivos</item>
+        <item>Outras atividades esportivas não especificadas anteriormente</item>
+        <item>Parques de diversão e parques temáticos</item>
+        <item>Discotecas</item>
+        <item>Exploração de boliches</item>
+        <item>Exploração de jogos de sinuca</item>
+        <item>Exploração de jogos eletrônicos recreativos</item>
+        <item>Outras atividades de recreação e lazer não especificadas anteriormente</item>
+        <item>Atividades de organizações associativas patronais e empresariais</item>
+        <item>Atividades de organizações associativas profissionais</item>
+        <item>Atividades de fiscalização profissional</item>
+        <item>Outras atividades associativas profissionais</item>
+        <item>Atividades de organizações sindicais</item>
+        <item>Atividades de associações de defesa de direitos sociais</item>
+        <item>Atividades de organizações religiosas ou filosóficas</item>
+        <item>Atividades de organizações políticas</item>
+        <item>Atividades de organizações associativas ligadas à cultura e à arte</item>
+        <item>Atividades associativas não especificadas anteriormente</item>
+        <item>Reparação e manutenção de computadores e de equipamentos periféricos</item>
+        <item>Reparação e manutenção de equipamentos de comunicação</item>
+        <item>Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico</item>
+        <item>Reparação de calçados</item>
+        <item>Chaveiros</item>
+        <item>Reparação de relógios</item>
+        <item>Reparação de bicicletas</item>
+        <item>Reparação de artigos do mobiliário</item>
+        <item>Reparação de jóias</item>
+        <item>Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente</item>
+        <item>Lavanderias</item>
+        <item>Tinturarias</item>
+        <item>Toalheiros</item>
+        <item>Cabeleireiros</item>
+        <item>Atividades de Estética e outros serviços de cuidados com a beleza</item>
+        <item>Gestão e manutenção de cemitérios</item>
+        <item>Serviços de cremação</item>
+        <item>Serviços de sepultamento</item>
+        <item>Serviços de funerárias</item>
+        <item>Serviços de somatoconservação</item>
+        <item>Atividades funerárias e serviços relacionados não especificados anteriormente</item>
+        <item>Clínicas de estética e similares</item>
+        <item>Agências matrimoniais</item>
+        <item>Alojamento</item>
+        <item>Exploração de máquinas de serviços pessoais acionadas por moeda</item>
+        <item>Atividades de sauna e banhos</item>
+        <item>Serviços de tatuagem e colocação de piercing</item>
+        <item>Alojamento de animais domésticos</item>
+        <item>Higiene e embelezamento de animais domésticos</item>
+        <item>Outras atividades de serviços pessoais não especificadas anteriormente</item>
+        <item>Serviços domésticos</item>
+        <item>Organismos internacionais e outras instituições extraterritoriais</item>
+    </string-array>
+</resources>
