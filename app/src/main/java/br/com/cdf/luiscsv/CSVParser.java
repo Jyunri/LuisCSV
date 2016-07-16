@@ -63,7 +63,29 @@ public class CSVParser {
         return "Sem correspondencia";
     }
 
-    public boolean getLine(String key, int inputcolumn, Segmento s)
+    public String getLineCSV1(String key, int inputcolumn, int outputcolumn, Segmento s)
+    {
+        try {
+            String csvLine;
+            while ((csvLine = reader.readLine()) != null)
+            {
+                String[] row = csvLine.split(",");
+                if(row[inputcolumn].toUpperCase().equals(key.toUpperCase()))
+                {
+                    s.cnae = row[0];
+                    s.descricao = row[1];
+                    return row[outputcolumn];
+                }
+            }
+        }
+        catch (Exception e)
+        {
+            e.toString();
+        }
+        return "Sem correspondencia";
+    }
+
+    public boolean getLineCSV2(String key, int inputcolumn, Segmento s)
     {
         try {
             String csvLine;
