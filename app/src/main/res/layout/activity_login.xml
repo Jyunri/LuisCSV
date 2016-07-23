@@ -27,7 +27,8 @@
         android:hint="Usuário"
         android:id="@+id/etUsername"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true"/>
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white" />
 
     <EditText
         android:layout_width="match_parent"
@@ -35,7 +36,9 @@
         android:hint="Senha"
         android:id="@+id/etPassword"
         android:layout_below="@id/etUsername"
-        android:layout_centerHorizontal="true"/>
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white"
+        android:inputType="textPassword" />
 
     <ImageButton
         android:layout_width="wrap_content"
