@@ -1,13 +1,17 @@
 package br.com.cdf.luiscsv;
 
 import android.app.ProgressDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.WindowManager;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
@@ -38,6 +42,22 @@ public class Login extends AppCompatActivity  implements View.OnClickListener {
 
         etUsername = (EditText)findViewById(R.id.etUsername);
         etPassword = (EditText)findViewById(R.id.etPassword);
+
+        etUsername.setOnKeyListener(new View.OnKeyListener() {
+            @Override
+            public boolean onKey(View v, int keyCode, KeyEvent event) {
+                // If the event is a key-down event on the "enter" button
+                if ((event.getAction() == KeyEvent.ACTION_DOWN) && (keyCode == KeyEvent.KEYCODE_ENTER)) {
+                    // Perform action on key press
+                    View view = getCurrentFocus();
+                    if (view != null) {
+                        etPassword.requestFocus();
+                    }
+                    return true;
+                }
+                return false;
+            }
+        });
     }
 
     @Override
@@ -162,26 +182,27 @@ public class Login extends AppCompatActivity  implements View.OnClickListener {
         protected void onPostExecute(String result) {
 
             //this method will be running on UI thread
+            if(result!=null) {
+                pdLoading.dismiss();
+                if (result.contains("success")) {
+                    /* Here launching another activity when login successful. If you persist login state
+                    use sharedPreferences of Android. and logout button to clear sharedPreferences.
+                     */
+                    startActivity(new Intent(getApplicationContext(), MainActivity.class));
 
-            pdLoading.dismiss();
-            if (result.contains("success")) {
-                /* Here launching another activity when login successful. If you persist login state
-                use sharedPreferences of Android. and logout button to clear sharedPreferences.
-                 */
-                startActivity(new Intent(getApplicationContext(), MainActivity.class));
 
+                } else if (result.contains("failure")) {
 
-            } else if (result.contains("failure")) {
+                    // If username and password does not match display a error message
+                    Toast.makeText(Login.this, "Usuario ou senha invalida", Toast.LENGTH_LONG).show();
 
-                // If username and password does not match display a error message
-                Toast.makeText(Login.this, "Usuario ou senha invalida", Toast.LENGTH_LONG).show();
+                } else if (result.equalsIgnoreCase("exception") || result.equalsIgnoreCase("unsuccessful")) {
 
-            } else if (result.equalsIgnoreCase("exception") || result.equalsIgnoreCase("unsuccessful")) {
-
-                Toast.makeText(Login.this, "Erro de conexao.", Toast.LENGTH_LONG).show();
+                    Toast.makeText(Login.this, "Erro de conexao.", Toast.LENGTH_LONG).show();
+                } else
+                    Toast.makeText(Login.this, result, Toast.LENGTH_SHORT).show();
             }
-            else
-                Toast.makeText(Login.this,result,Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"Verifique a sua conexão com a Internet",Toast.LENGTH_SHORT).show();
         }
     }
 
