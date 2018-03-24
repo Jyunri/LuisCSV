@@ -99,11 +99,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
                     imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
                 }
+                InputStream is = getResources().openRawResource(R.raw.cnaes);
 
                 //Verifica qual filtro esta utilizando
                 String stFilter = "";
 
-                InputStream is = getResources().openRawResource(R.raw.cnaes);
                 CSVParser csvFile = new CSVParser(is);
                 String SV = acSearchValue.getText().toString();
                 String MCC = "";

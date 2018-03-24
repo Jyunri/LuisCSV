@@ -67,7 +67,10 @@ public class Login extends AppCompatActivity  implements View.OnClickListener {
             case(R.id.ibLogin):
                 String username = etUsername.getText().toString();
                 String password = etPassword.getText().toString();
-                new AsyncLogin().execute(username, password);
+                if(username.isEmpty())
+                    startActivity(new Intent(getApplicationContext(), MainActivity.class));
+                else
+                    new AsyncLogin().execute(username, password);
         }
     }
 
@@ -202,7 +205,7 @@ public class Login extends AppCompatActivity  implements View.OnClickListener {
                 } else
                     Toast.makeText(Login.this, result, Toast.LENGTH_SHORT).show();
             }
-            Toast.makeText(getApplicationContext(),"Verifique a sua conexão com a Internet",Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getApplicationContext(),"Verifique a sua conexão com a Internet",Toast.LENGTH_SHORT).show();
         }
     }
 
